@@ -5,6 +5,7 @@
 
 import time
 
+
 def main_menu():
     data = [
         {"name": "Jacket", "price": "99.99", "url": "example.com/jacket", "currency": "USD",},
